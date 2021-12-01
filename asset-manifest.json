@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/product-page/static/css/main.eb5538ff.chunk.css",
+    "main.js": "/product-page/static/js/main.6db433e3.chunk.js",
+    "main.js.map": "/product-page/static/js/main.6db433e3.chunk.js.map",
+    "runtime-main.js": "/product-page/static/js/runtime-main.b8504548.js",
+    "runtime-main.js.map": "/product-page/static/js/runtime-main.b8504548.js.map",
+    "static/js/2.91d1d924.chunk.js": "/product-page/static/js/2.91d1d924.chunk.js",
+    "static/js/2.91d1d924.chunk.js.map": "/product-page/static/js/2.91d1d924.chunk.js.map",
+    "index.html": "/product-page/index.html",
+    "static/css/main.eb5538ff.chunk.css.map": "/product-page/static/css/main.eb5538ff.chunk.css.map",
+    "static/js/2.91d1d924.chunk.js.LICENSE.txt": "/product-page/static/js/2.91d1d924.chunk.js.LICENSE.txt",
+    "static/media/icon-cart.539ec608.svg": "/product-page/static/media/icon-cart.539ec608.svg",
+    "static/media/image-product-1.520cc50b.jpg": "/product-page/static/media/image-product-1.520cc50b.jpg",
+    "static/media/image-product-2.c8bb0aac.jpg": "/product-page/static/media/image-product-2.c8bb0aac.jpg",
+    "static/media/image-product-3.af5c71ba.jpg": "/product-page/static/media/image-product-3.af5c71ba.jpg",
+    "static/media/image-product-4.9962862e.jpg": "/product-page/static/media/image-product-4.9962862e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8504548.js",
+    "static/js/2.91d1d924.chunk.js",
+    "static/css/main.eb5538ff.chunk.css",
+    "static/js/main.6db433e3.chunk.js"
+  ]
+}
